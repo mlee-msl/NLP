@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  8 21:32:21 2017
-
-@author: MLee
-"""
 
 import pyltp
 import os
